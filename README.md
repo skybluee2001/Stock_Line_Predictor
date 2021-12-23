@@ -2,7 +2,7 @@
 
 Stock Line Predictor is a Streamlit Web Application which can take the Stock Ticker (Stock Symbol) of any company as input and predict it's Stock Line. The data for the inputted Stock Ticker of any company will be automatically obtained by Web scraping the Yahoo Finance website. The Stock Line predictions are based on the LSTM model trained on the NSE-TATAGLOBAL dataset. 
 
-This web App also provides other details of the Stock Ticker like the recent data of High, Low, Open, Close, Volume, Adj Close dateswise and their statistics from 2010 to till date. Futhermore, it will display us the charts of the Closing Prices vs Years with their 100 MA & 200 MA (Moving Average) trendlines. 
+This web App also provides other details of the Stock Ticker like the recent data of High, Low, Open, Close, Volume, Adj Close datewise and their statistics from 2010 to till date. Futhermore, it will display the charts of the Closing Prices vs Years with their 100 MA & 200 MA (Moving Average) trendlines. 
 
 For instance, if we input the Stock Ticker of Google i.e. GOOG, we will obtain the following results-
 
