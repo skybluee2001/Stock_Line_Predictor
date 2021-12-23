@@ -10,4 +10,4 @@ For instance, if we input the Stock Ticker of Google i.e. GOOG, we will obtain t
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/62761795/147252061-b5e995c4-f7fa-498d-a667-077a77d370b8.png">
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/62761795/147252079-362c7b98-d189-4def-80c3-c97cce0eaed7.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/62761795/147252656-d8df0928-c846-4818-be09-d0fb70f46793.png">
